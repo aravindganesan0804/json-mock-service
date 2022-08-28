@@ -1,0 +1,36 @@
+{
+  "Accounts":[
+    {
+    "Name":"ABC INDUSTRIES",
+    "Type":"Prospect",
+    "Contacts":[
+      {
+       "Name":"John",
+       "MobilePhone":"2222222222",
+       "Email":"john@abc.com"
+      },
+      {
+     "Name":"David",
+     "MobilePhone":"3333333333",
+     "Email":"david@abc.com"
+     }
+    ]
+    },
+    {
+    "Name":"XYZ INDUSTRIES",
+    "Type":"Prospect",
+    "Contacts":[
+      {
+       "Name":"Kevin",
+       "MobilePhone":"4444444444",
+       "Email":"kevin@xyz.com"
+      },
+      {
+     "Name":"Clove",
+     "MobilePhone":"5555555555",
+     "Email":"clove@xyz.com"
+     }
+    ]
+    }
+  ]
+}
